@@ -1,3 +1,7 @@
+/*
+C0D3's Simple web server.
+Version Alpha 0.0.2
+*/
 package main
 
 import (
