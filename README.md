@@ -1,4 +1,6 @@
 # httpserver
+_**version:** Alpha 0.0.2_
+
 Simple http server that serves the selected folder content
 
     go get github.com/0xC0D3/httpserver
